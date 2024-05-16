@@ -1,6 +1,6 @@
 #include "ngram-cache.h"
 #include "common.h"
-#include "log.h"
+#include "log_llama.h"
 
 #include <cstdint>
 #include <fstream>
